@@ -86,7 +86,7 @@
 
   <section class="section">
     <h2>Jetzt bewerben:</h2>
-    <form action="mailto:edekalieblang@gmail.com" method="POST" enctype="text/plain">
+    <form action="https://formspree.io/f/mzzenqqg" method="POST">
       <label for="name">Name:</label>
       <input type="text" id="name" name="name" required>
 
